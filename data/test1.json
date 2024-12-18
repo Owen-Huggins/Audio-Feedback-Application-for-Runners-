@@ -1,0 +1,40 @@
+[
+  {
+    "type": "badForm",
+    "heartRate": 70,
+    "timestamp": 100,
+    "paceMinute": "5",
+    "paceSecond": "34",
+    "timerMinute": "6",
+    "timerSecond": "20",
+    "stepCount": 3, 
+    "pressureGauge": 2, 
+    "bodyAngle": 30.0
+  },
+  {
+    "type": "badForm",
+    "heartRate": 70,
+    "timestamp": 100,
+    "paceMinute": "5",
+    "paceSecond": "34",
+    "timerMinute": "6",
+    "timerSecond": "20",
+    "stepCount": 3, 
+    "pressureGauge": 3, 
+    "bodyAngle": 0.0
+  }, 
+  {
+    "type": "badForm",
+    "heartRate": 70,
+    "timestamp": 100,
+    "paceMinute": "5",
+    "paceSecond": "34",
+    "timerMinute": "6",
+    "timerSecond": "20",
+    "stepCount": 3, 
+    "pressureGauge": 4, 
+    "bodyAngle": -30
+  }
+  
+  
+]
